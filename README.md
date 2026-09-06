@@ -31,7 +31,7 @@ Analyse de données concernant les **clients, commandes et produits** à l'aide 
 
 **Outils :** SQL, Power BI, Excel
 
-📂 [Voir le projet](./Projet2%20Analyse%20SQL)
+📂 [Voir le projet](https://github.com/assanegassama/Portfolio-Data-Analyst/tree/de68a71068f19dfe04eff0462e081a15432692a9/Analyse%20des%20ventes%20et%20du%20comportement%20clients%20avec%20SQL%20et%20Power%20BI)
 
 ---
 
