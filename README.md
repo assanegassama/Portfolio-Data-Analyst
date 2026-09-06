@@ -21,7 +21,7 @@ Analyse de données commerciales avec Excel afin de suivre les ventes, calculer 
 
 **Outils :** Excel, Power Query, VBA
 
-📂 [Voir le projet](./Projet%201%20-%20Analyse%20ventes)
+📂 [Voir le projet](https://github.com/assanegassama/Portfolio-Data-Analyst/tree/195d72811e0403aad03ebf0ef420bdf7379fa987/Analyse%20des%20ventes%20et%20du%20comportement%20clients%20avec%20SQL%20et%20Power%20BI)
 
 ---
 
