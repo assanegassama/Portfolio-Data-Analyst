@@ -45,7 +45,7 @@ L'objectif est de transformer les données RH en informations utiles pour facili
 
 **Outils :** Excel, Power Query, analyse de données, visualisation
 
-📂 [Voir le projet](Projet3 Analyse RH)
+📂 [Voir le projet](https://github.com/assanegassama/Portfolio-Data-Analyst/tree/876d72fec79aa5921f877378fac706eb1fb576cc/Projet3%20Analyse%20RHProjet3 Analyse RH)
 
 ---
 
