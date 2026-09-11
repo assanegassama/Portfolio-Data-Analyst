@@ -43,9 +43,9 @@ Analyse de données RH afin d'étudier les effectifs, la répartition des collab
 
 L'objectif est de transformer les données RH en informations utiles pour faciliter l'analyse et la prise de décision.
 
-**Outils :** Excel, Power Query, analyse de données, visualisation
+**Outils :** Excel, Power Query, analyse de données, visualisationyse 
 
-📂 [Voir le projet](https://github.com/assanegassama/Portfolio-Data-Analyst/tree/876d72fec79aa5921f877378fac706eb1fb576cc/Projet3%20Analyse%20RHProjet3 Analyse RH)
+📂 [Voir le projet](https://github.com/assanegassama/Portfolio-Data-Analyst/tree/10daf9118eaf0690ac1b7377ba60cfa67c1691fa/Projet3%20Analyse%20RH)
 
 ---
 
