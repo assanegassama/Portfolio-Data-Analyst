@@ -34,6 +34,35 @@ Analyse de données concernant les **clients, commandes et produits** à l'aide 
 📂 [Voir le projet](https://github.com/assanegassama/Portfolio-Data-Analyst/tree/de68a71068f19dfe04eff0462e081a15432692a9/Analyse%20des%20ventes%20et%20du%20comportement%20clients%20avec%20SQL%20et%20Power%20BI)
 
 ---
+👥 Projet 3 — Analyse des ressources humaines
+
+Analyse de données RH afin d'étudier les effectifs, la répartition des collaborateurs et différents indicateurs liés aux ressources humaines.
+
+L'objectif est de transformer les données RH en informations utiles pour faciliter l'analyse et la prise de décision.
+
+Outils : Excel, Power Query, analyse de données, visualisation
+
+📂 Voir le projet
+
+💰 Projet 4 — Analyse financière
+
+Analyse de 240 transactions financières réalisées sur 2025 et 2026 afin d'évaluer le chiffre d'affaires, les dépenses, les bénéfices et les marges.
+
+L'analyse porte notamment sur :
+
+la performance par ville ;
+la performance par produit ;
+la performance par catégorie ;
+la performance des commerciaux ;
+l'évolution mensuelle et annuelle ;
+les bénéfices et les marges ;
+les principaux indicateurs financiers.
+
+Le projet comprend également un dashboard Excel permettant de suivre les principaux KPI et d'identifier les zones et produits les plus performants.
+
+Outils : Excel, Power Query, SQL, Power BI
+
+📂 Voir le projet
 
 ## 🎯 Objectif professionnel
 
