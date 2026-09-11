@@ -67,7 +67,7 @@ Le projet comprend également un **dashboard Excel** permettant de suivre les pr
 
 **Outils :** Excel, Power Query, SQL, Power BI
 
-📂 [Voir le projet](#)
+📂 [Voir le projet](https://github.com/assanegassama/Portfolio-Data-Analyst/tree/75f8f9fb1637ba34fc44dac2fe11b0c102a53f9e/Projet%204%20-%20Analyse%20financi%C3%A8re)
 
 ---
 
