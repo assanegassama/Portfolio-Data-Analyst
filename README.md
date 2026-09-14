@@ -70,6 +70,23 @@ Le projet comprend également un **dashboard Excel** permettant de suivre les pr
 📂 [Voir le projet](https://github.com/assanegassama/Portfolio-Data-Analyst/tree/75f8f9fb1637ba34fc44dac2fe11b0c102a53f9e/Projet%204%20-%20Analyse%20financi%C3%A8re)
 
 ---
+📌 Projet 5 — Analyse de la performance des boutiques
+
+Outils : Power BI, Power Query, Excel, DAX
+
+Analyse de la performance commerciale de plusieurs boutiques à partir des données de ventes, produits, clients, commerciaux et objectifs.
+
+Principales analyses :
+
+Chiffre d'affaires par boutique
+Chiffre d'affaires par catégorie
+Évolution mensuelle du chiffre d'affaires
+Nombre de ventes
+Comparaison des performances
+
+📂 [Voir le projet](https://github.com/assanegassama/Portfolio-Data-Analyst/tree/75f8f9fb1637ba34fc44dac2fe11b0c102a53f9e/Projet%204%20-%20Analyse%20financi%C3%A8re)
+
+---
 
 ## 🎯 Objectif professionnel
 
