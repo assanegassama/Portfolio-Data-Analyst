@@ -84,7 +84,7 @@ Chiffre d'affaires par catégorie
 Nombre de ventes
 Comparaison des performances
 
-📂 [Voir le projet](https://github.com/assanegassama/Portfolio-Data-Analyst/tree/75f8f9fb1637ba34fc44dac2fe11b0c102a53f9e/Projet%204%20-%20Analyse%20financi%C3%A8re)
+📂 [Voir le projet](https://github.com/assanegassama/Portfolio-Data-Analyst/tree/e10c32d2c130f4ea0bda18561f49ead632b447fb/Projet%205%20-%20Business%20Performance%20Analyste)
 
 ---
 
